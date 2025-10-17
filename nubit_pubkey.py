@@ -45,4 +45,4 @@ if __name__ == "__main__":
         main(mnemonic)
     except Exception as e:
         print(f"Критическая ошибка: {e}")
-    input("\nНажмите Enter чтобы выйти...")  # Пауза перед закрытием
+    input("\nНажмите Enter чтобы выйти...")  # Пауза  перед закрытием
